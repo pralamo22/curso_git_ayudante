@@ -12,6 +12,7 @@
       description: "Una manzana",
       stock: 0,
     },
+    
     {
       id: 2,
       name: "Pera",
